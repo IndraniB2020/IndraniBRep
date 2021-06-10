@@ -2,7 +2,7 @@
 
 👀 I’m interested in Ml/NLP/DL/BiGDATA
 
-🌱
+🌱I am forever learning
 
 💞️ I’m looking to collaborate on DL/NLP/Pyspark/kafka/Docker
 
