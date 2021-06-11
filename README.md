@@ -6,4 +6,4 @@
 
 💞️ I’m looking to collaborate on DL/NLP/Pyspark/kafka/Docker
 
-📫 Reach out tp me @ bhattacharya.indrani@gmail.com or https://linkedin.com/in/indranibhattacharya/
+📫 Reach out to me @ bhattacharya.indrani@gmail.com or https://linkedin.com/in/indranibhattacharya/
