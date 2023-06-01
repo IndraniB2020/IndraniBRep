@@ -3,7 +3,7 @@ import os
 from azure.storage.blob import BlobServiceClient
 from azure.core.exceptions import ResourceExistsError
 
-storage_connection_string = 'DefaultEndpointsProtocol=https;AccountName=cctdash0000prd0504blob;AccountKey=T0EqkygFP+KJC4zmhn2OnI+lZX/kfzZHhx+sXqYhIuobl2i9iFGbrm9h6S4dvdRpj0atOs0ZvNdPrVitFXdWjA==;EndpointSuffix=core.windows.net'
+storage_connection_string = 'DefaultEndpointsProtocol=https;AccountName=____BLOB_ACCOUNT_NAME;AccountKey=___BLOB_ACCOUNT_KEY'
 blob_service_client = BlobServiceClient.from_connection_string(storage_connection_string)
 
 #print("wastewtaer")
