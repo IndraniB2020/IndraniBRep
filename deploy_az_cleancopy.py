@@ -8,12 +8,12 @@ blob_service_client = BlobServiceClient.from_connection_string(storage_connectio
 
 #print("wastewtaer")
 #create container reference/entity
-container_id = 'testww'
+container_id = '___NAME_of_the_BLOBCONTAINER____'
 blob_service_client.get_container_client(container_id)
 
 ####overwrite = True/False , depending if data has to be/not to be overwritten
 overwrite = False
-target_directory = os.path.join(os.getcwd(),'Z:\\LatestTrends') 
+target_directory = os.path.join(os.getcwd(),'___NAME_of_FTP_FOLDER___________') 
 
 for folder in os.walk(target_directory):
     for file in folder[-1]:
